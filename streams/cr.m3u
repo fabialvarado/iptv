@@ -160,3 +160,5 @@ https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist
 https://acceso.radiosportstv.online:3022/stream/play.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr",Zurquí TV (720p)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+#EXTINF:-1 tvg-id="LaPotenteRadioTV.cr",La Potente Radio TV (1080p)
+https://radioaserri.com:3645/live/lapotentetvlive.m3u8
